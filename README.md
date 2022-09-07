@@ -60,7 +60,7 @@ Path: ./train/tasks/semantic/config
 3. python ./visualize.py -d DATASET_PATH -s SECVENTION_NUMBER -p PREDICTIONS_DIRECTORY_PATH -pcv TRUE/FALSE -c ARCH_CONF_PATH -med TRUE/FALSE -w IMAGE_WIDTH
 
 * -s parameter is used to specify the number of the sequence we want to run 
-* -pvc parameter is used to choose if you want to run 3D point cloud visualization 
-* -med parameter is used to choose if you want to apply a median filter over the projected images 
+* -pvc parameter is used to choose if you want to run 3D point cloud visualization or not
+* -med parameter is used to choose if you want to apply a median filter over the projected images or not
 
 
