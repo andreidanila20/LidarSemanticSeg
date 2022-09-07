@@ -24,7 +24,7 @@ opencv-python==3.4.11 \
 matplotlib==3.5.1 \
 yaml==6.0 
 
-## CNN's configuration files
+## CNNs configuration files
 For each version of CNN we have a configuration file in which are weitten informations like: traning parameters, backbone parameters, neck parameters, head parameters and post-processing parameters.
 
 Path: ./train/tasks/semantic/config
